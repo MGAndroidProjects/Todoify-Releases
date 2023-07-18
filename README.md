@@ -19,7 +19,9 @@
 -  Custom accent colours when dynamic colours are off.
 -  Fully **_offline based_** todo & note-taking app
 -  **Simple and easy-to-use UI** of creating new todos, notes, and future/scheduled tasks.
+-  Swipe from left to edit any todo/scheduled task and swipe from right to delete a todo/scheduled task.
 -  Ability to **create notes with full markdown and editing support**
+-  Tap to view notes and on long press to delete them
 -  Ability to create **future/scheduled** tasks.
 -  Ability to set a **reminder notification** for future/scheduled notes
 -  Ability to add scheduled task to the device calendar.
