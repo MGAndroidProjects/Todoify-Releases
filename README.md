@@ -67,7 +67,6 @@
 ## Current todo:
 
 -  Improve scheduling notification feature.
--  Preserve the last opened home content on app relaunch
 
 ## List of things not supported by flutter (officially or partially or not built-in):
 
