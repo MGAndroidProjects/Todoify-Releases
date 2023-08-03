@@ -8,10 +8,15 @@
 ![Flutter](https://img.shields.io/badge/Platform-Flutter-blue)
 ![minSdkVersion](https://img.shields.io/badge/minSdkVersion-21-green.svg)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/milindgoel15)
+[![Crowdin](https://badges.crowdin.net/todoify/localized.svg)](https://crowdin.com/project/todoify)
 
 </div>
 
 ---
+
+## Downloads:
+
+[![GitHub Release](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MGAndroidProjects/Todoify-Releases/releases/latest)
 
 ## Features:
 
@@ -66,7 +71,10 @@
 
 ## Current todo:
 
--  Improve scheduling notification feature.
+-  [x] Improve scheduling notification feature.
+-  [] Add integration with Google Assistant
+-  [] add cloud syncing support
+-  [] support more platforms
 
 ## List of things not supported by flutter (officially or partially or not built-in):
 
