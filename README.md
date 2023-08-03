@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## Downloads:
 
 [![GitHub Release](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MGAndroidProjects/Todoify-Releases/releases/latest)
@@ -72,9 +70,9 @@
 ## Current todo:
 
 -  [x] Improve scheduling notification feature.
--  [] Add integration with Google Assistant
--  [] add cloud syncing support
--  [] support more platforms
+-  [ ] Add integration with Google Assistant
+-  [ ] add cloud syncing support
+-  [ ] support more platforms
 
 ## List of things not supported by flutter (officially or partially or not built-in):
 
