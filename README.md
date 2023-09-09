@@ -28,6 +28,7 @@
 -  Ability to create **future/scheduled** tasks.
 -  Ability to set a **reminder notification** for future/scheduled notes
 -  Ability to add scheduled task to the device calendar.
+-  Ability to change font from Google fonts.
 -  Monet-based splash screen for Android 12+ devices.
 -  Monochrome icon for Android 13+ devices.
 -  Theme switcher (Light, dark and AMOLED/black mode)
