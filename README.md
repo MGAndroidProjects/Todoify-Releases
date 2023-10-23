@@ -7,10 +7,14 @@
 
 ![Flutter](https://img.shields.io/badge/Platform-Flutter-blue)
 ![minSdkVersion](https://img.shields.io/badge/minSdkVersion-21-green.svg)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/milindgoel15)
 [![Crowdin](https://badges.crowdin.net/todoify/localized.svg)](https://crowdin.com/project/todoify)
 
 </div>
+
+## Donation:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/milindgoel15)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/milindgoel15)
 
 ## Downloads:
 
