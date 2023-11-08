@@ -2,6 +2,7 @@
    <img width="80" height="80" src="screenshots/logo.png"/>
    <h1>Todoify</h1>
    <p>a material design, <strong>closed source offline based todo, notetaking app</strong> for android with <strong>Material You</strong> theming.</p>
+   <p>Website: https://todoifyweb.vercel.app</p>
 </div>
 <div align="center">
 
